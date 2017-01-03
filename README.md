@@ -1,1 +1,1 @@
-！[](./images/html_logo.jpg)！[](./images/css_logo.jpg)！[](./images/js_logo.jpg)！[](./images/github_logo.jpg)
+![](./docs/images/html_logo.jpg) ![](./docs/images/css_logo.jpg) ![](./docs/images/js_logo.jpg) ![](./docs/images/github_logo.jpg)
