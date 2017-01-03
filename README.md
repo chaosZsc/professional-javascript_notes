@@ -4,7 +4,7 @@
 
 # 四logo镇楼！
 
-## 第一章 [JavaScript简介](.docs/chapter1.md)
+## 第一章 [JavaScript简介](./docs/chapter1.md)
 
 JavaScript 是一种专为与网页交互而设计的脚本语言,由下列三个不同的部分组成:
 * ECMAScript,由 ECMA-262 定义,提供核心语言功能;
